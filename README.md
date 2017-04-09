@@ -1,6 +1,11 @@
 # Useful Resources
 Useful resources for apps, development or design.
 
+## For Development
+### Online Tutorial Series
+#### Swift
+* [Lets Build That App](https://www.letsbuildthatapp.com/) : Some cool trainings for Swift
+
 ## For Design
 ### Color Palette
 * [Color-Hex](http://www.color-hex.com/color-palettes/) : Pre-defined color palettes, with -concept- name.
