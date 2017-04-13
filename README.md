@@ -26,12 +26,23 @@ I used most of these tools and I felt I had to share them.
 | Canva // Color Palette | Creates color palettes from given images | [Link](https://www.canva.com/color-palette/) |
 | Material Palette | You can choose colors for palette and site shows you sample material design | [Link](https://www.materialpalette.com/) |
 
-### Design (Objects. like vector, icon etc.)
+### Design Guidance
+| Title | Description |  |
+|--|--|--|
+| Google's Design | Google's design guidance | [Link](https://developer.android.com/design/index.html) |
+| Apple's Design | Apple's design guidance | [Link](https://developer.apple.com/design/) |
+| Material Design | Cool site for material design. This site contains some cool tools, articles and assets | [Link](https://material.io/) [Directly Guidelines](https://material.io/guidelines/#introduction-principles) |
+
+### Design App. (Objects. like vector, icon etc.)
 | Title | Description |  |
 |--|--|--|
 | Freepik | You can get free Vectors, PSDs, Icons and Photos | [Link](http://www.freepik.com/) |
 | Sketchapp Sources | Free and priced resources, for Sketchapp | [Link](https://www.sketchappsources.com/) |
 
+### Design Game (Assets)
+| Title | Description |  |
+|--|--|--|
+| Game Developer Studio | Cool graphic assetss for Game Designs. | [Link](https://www.gamedeveloperstudio.com) |
 
 Note: None of all those links does NOT ref.link.
 
