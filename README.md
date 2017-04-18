@@ -3,46 +3,59 @@ Useful resources for apps, development or design.
 
 I used most of these tools and I felt I had to share them.
 
+## Project Management Tools
+Browsers are default and given platforms for mobile.
+
+| Title | Description | Supported Platforms |
+|--|--|--|
+| [Trello](https://trello.com/) | Has free option. | ![alt text][g_iOS] ![alt text][g_Android] |
+| [Asana](https://asana.com/) | Has free option. | ![alt text][g_iOS] ![alt text][g_Android] |
+
 ## For Development
-###
-#### Project Management Tools
-| Title | Description |  |  |
-|--|--|--|--|
-| Trello | Has free option. | [Link](https://trello.com/) | ![alt text][g_iOS] ![alt text][g_Android] |
-| Asana | Has free option. | [Link](https://asana.com/) | ![alt text][g_iOS] ![alt text][g_Android] |
+### GameEngines
+No need to make a list in here. You can check this [Link](https://en.wikipedia.org/wiki/List_of_game_engines).
 
 ### Online Tutorial Series
 #### Swift
-| Title | Description |  |
-|--|--|--|
-| Lets Build That App | Some cool trainings for Swift | [Link](https://www.letsbuildthatapp.com/) |
+| Title | Description |
+|--|--|
+| [Lets Build That App](https://www.letsbuildthatapp.com/) | Some cool trainings for Swift. |
+| [Custom iOS Components](https://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6/) | Tutorial for making custom components with Swift. |
+
+### Helper Tools for Learning Development
+| Title | Description |
+|--|--|
+| [CODINGAME](https://www.codingame.com/start) | You will learning coding with fun way. |
+| [EXERCISM](http://exercism.io/) | You'll confront with some problems and You have to solve them all. |
 
 ## For Design
 ### Color Palette
-| Title | Description |  |  |
-|--|--|--|--|
-| Color-Hex | Pre-defined color palettes, with -concept- name | [Link](http://www.color-hex.com/color-palettes/) ||
-| Coolors | Generates color palette randomly | [Link](https://coolors.co) | ![alt text][g_iOS] |
-| Canva // Color Palette | Creates color palettes from given images | [Link](https://www.canva.com/color-palette/) |
-| Material Palette | You can choose colors for palette and site shows you sample material design | [Link](https://www.materialpalette.com/) |
+| Title | Description | App's Platforms |
+|--|--|--|
+| [Color-Hex](http://www.color-hex.com/color-palettes/) | Pre-defined color palettes, with -concept- name. ||
+| [Coolors](https://coolors.co) | Generates color palette randomly. | ![alt text][g_iOS] |
+| [Canva // Color Palette](https://www.canva.com/color-palette/) | Creates color palettes from given images. ||
+| [Material Palette](https://www.materialpalette.com/) | You can choose colors for palette and site shows you sample material design. ||
+| [Material Colors](http://www.cosmicmind.com/material/colors) | Cool material colors from static page. | ![alt text][g_iOS] |
+
 
 ### Design Guidance
 | Title | Description |  |
 |--|--|--|
-| Google's Design | Google's design guidance | [Link](https://developer.android.com/design/index.html) |
-| Apple's Design | Apple's design guidance | [Link](https://developer.apple.com/design/) |
-| Material Design | Cool site for material design. This site contains some cool tools, articles and assets | [Link](https://material.io/) [Directly Guidelines](https://material.io/guidelines/#introduction-principles) |
+| [Google's Design](https://developer.android.com/design/index.html) | Google's design guidance. ||
+| [Apple's Design](https://developer.apple.com/design/) | Apple's design guidance. ||
+| [Material Design](https://material.io/) | Cool site for material design. This site contains some cool tools, articles and assets. |[Directly Guidelines link](https://material.io/guidelines/#introduction-principles) |
 
 ### Design App. (Objects. like vector, icon etc.)
-| Title | Description |  |
-|--|--|--|
-| Freepik | You can get free Vectors, PSDs, Icons and Photos | [Link](http://www.freepik.com/) |
-| Sketchapp Sources | Free and priced resources, for Sketchapp | [Link](https://www.sketchappsources.com/) |
+| Title | Description |
+|--|--|
+| [Freepik](http://www.freepik.com/) | You can get free Vectors, PSDs, Icons and Photos. |
+| [Sketchapp Sources](https://www.sketchappsources.com/) | Free and priced resources, for Sketchapp. |
 
 ### Design Game (Assets)
-| Title | Description |  |
-|--|--|--|
-| Game Developer Studio | Cool graphic assetss for Game Designs. | [Link](https://www.gamedeveloperstudio.com) |
+| Title | Description |
+|--|--|
+| [Game Developer Studio](https://www.gamedeveloperstudio.com) | Cool graphic assetss for Game Designs. |
 
 Note: None of all those links does NOT ref.link.
 
