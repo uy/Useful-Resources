@@ -22,6 +22,12 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Lets Build That App](https://www.letsbuildthatapp.com/) | Some cool trainings for Swift. |
 | [Custom iOS Components](https://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6/) | Tutorial for making custom components with Swift. |
 
+### Tips
+#### Swift
+| Title | Description |
+|--|--|
+| [That Things in Swift](https://thatthinginswift.com/) | Cool tips are here. |
+
 ### Helper Tools for Learning Development
 | Title | Description |
 |--|--|
