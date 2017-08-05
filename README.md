@@ -53,6 +53,8 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Google's Design](https://developer.android.com/design/index.html) | Google's design guidance. ||
 | [Apple's Design](https://developer.apple.com/design/) | Apple's design guidance. ||
 | [Material Design](https://material.io/) | Cool site for material design. This site contains some cool tools, articles and assets. |[Directly Guidelines link](https://material.io/guidelines/#introduction-principles) |
+| [iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines) | Cool guidelines to iOS App Designs | |
+| [Designcode.io](https://designcode.io/iosdesign-guidelines) | Designcode.io's iOS guidelines. | |
 
 ### Design App. (Objects. like vector, icon etc.)
 | Title | Description |
