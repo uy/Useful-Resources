@@ -25,6 +25,11 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Adaptive(Auto) Layout - Part 2](https://www.raywenderlich.com/115440/auto-layout-tutorial-in-ios-9-part-1-getting-started-2) | Really cool tutorial - Part 2 |
 
 ### Tips
+#### Generic
+| Title | Description |
+|--|--|
+| [coderwall](https://coderwall.com/) | The latest development and design tips, tools, and projects from our developer community. |
+
 #### Swift
 | Title | Description |
 |--|--|
