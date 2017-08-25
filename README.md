@@ -41,6 +41,11 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [CODINGAME](https://www.codingame.com/start) | You will learning coding with fun way. |
 | [EXERCISM](http://exercism.io/) | You'll confront with some problems and You have to solve them all. |
 
+### Github Tricks
+| Link |
+|--|
+| [:octocat: Emojis for description or readme](https://gist.github.com/AliMD/3344523) |
+
 ## For Design
 ### Color Palette
 | Title | Description | App's Platforms |
@@ -58,8 +63,6 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Google's Design](https://developer.android.com/design/index.html) | Google's design guidance. ||
 | [Apple's Design](https://developer.apple.com/design/) | Apple's design guidance. ||
 | [Material Design](https://material.io/) | Cool site for material design. This site contains some cool tools, articles and assets. |[Directly Guidelines link](https://material.io/guidelines/#introduction-principles) |
-| [iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines) | Cool guidelines to iOS App Designs | |
-| [Designcode.io](https://designcode.io/iosdesign-guidelines) | Designcode.io's iOS guidelines. | |
 
 ### Design App. (Objects. like vector, icon etc.)
 | Title | Description |
