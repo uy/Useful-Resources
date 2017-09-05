@@ -29,6 +29,7 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | Title | Description |
 |--|--|
 | [coderwall](https://coderwall.com/) | The latest development and design tips, tools, and projects from our developer community. |
+| [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) | Nice github repository. |
 
 #### Swift
 | Title | Description |
@@ -40,6 +41,14 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 |--|--|
 | [CODINGAME](https://www.codingame.com/start) | You will learning coding with fun way. |
 | [EXERCISM](http://exercism.io/) | You'll confront with some problems and You have to solve them all. |
+
+### Data Generate Tools & APIs
+| Pricing | Title & Link | Description | Sample REST Link |
+|--|--|--|
+| :free: | [Random User](https://randomuser.me/)| Returns simple datas about User | [:link:](https://randomuser.me/api) |
+| :free: :dollar: | [Random API](https://randomapi.com/) | ... | ... |
+| :free: :dollar: | [RestDB](https://restdb.io/) | ... | ... |
+| :free: :dollar: | [mockaroo](https://www.mockaroo.com/) | ... | ... |
 
 ### Github Tricks
 | Link |
