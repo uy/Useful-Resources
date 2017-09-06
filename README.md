@@ -46,9 +46,9 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | Pricing | Title & Link | Description | Sample REST Link |
 |--|--|--|
 | :free: | [Random User](https://randomuser.me/)| Returns simple datas about User | [:link:](https://randomuser.me/api) |
-| :free: :dollar: | [Random API](https://randomapi.com/) | ... | ... |
-| :free: :dollar: | [RestDB](https://restdb.io/) | ... | ... |
-| :free: :dollar: | [mockaroo](https://www.mockaroo.com/) | ... | ... |
+| :free: :dollar: | [Random API](https://randomapi.com/) |  |  |
+| :free: :dollar: | [RestDB](https://restdb.io/) |  |  |
+| :free: :dollar: | [mockaroo](https://www.mockaroo.com/) |  |  |
 
 ### Github Tricks
 | Link |
