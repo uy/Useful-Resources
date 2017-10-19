@@ -15,6 +15,12 @@ Browsers are default and given platforms for mobile.
 ### GameEngines
 No need to make a list in here. You can check this [Link](https://en.wikipedia.org/wiki/List_of_game_engines).
 
+### Game Logics
+
+| Resources |
+|--|
+| [Incremental Games](https://www.reddit.com/r/incremental_games/wiki/build_a_game) |
+
 ### Online Tutorial Series
 #### Swift
 | Title | Description |
