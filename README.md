@@ -12,6 +12,27 @@ Browsers are default and given platforms for mobile.
 | [Asana](https://asana.com/) | Has free option. | ![alt text][g_iOS] ![alt text][g_Android] |
 
 ## For Development
+
+### Style Guides
+
+#### Swift Style Guides
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [github](https://github.com/github/swift-style-guide)
+* [linkedin](https://github.com/linkedin/swift-style-guide)
+* [wordpress-mobile](https://github.com/wordpress-mobile/swift-style-guide)
+* [coursera](https://github.com/coursera/swift-style-guide)
+* [metova](https://github.com/metova/swift-style-guide)
+
+#### Objective-C Style Guides
+* [google](http://google.github.io/styleguide/objcguide.html)
+
+#### Java Style Guides
+* [google](https://google.github.io/styleguide/javaguide.html)
+* [raywenderlich](https://github.com/raywenderlich/java-style-guide)
+
+#### Kotlin Style Guides
+* [raywenderlich](https://github.com/raywenderlich/kotlin-style-guide)
+
 ### GameEngines
 No need to make a list in here. You can check this [Link](https://en.wikipedia.org/wiki/List_of_game_engines).
 
