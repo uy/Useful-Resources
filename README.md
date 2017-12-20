@@ -81,6 +81,7 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | Link |
 |--|
 | [:octocat: Emojis for description or readme](https://gist.github.com/AliMD/3344523) |
+| [:octocat: Emojis for description or readme](https://gist.github.com/rxaviers/7360908) |
 
 ## For Design
 ### Color Palette
