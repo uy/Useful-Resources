@@ -112,6 +112,10 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 |--|--|
 | [Game Developer Studio](https://www.gamedeveloperstudio.com) | Cool graphic assetss for Game Designs. |
 
+## For Market
+
+App [Privacy Policy generator tool](https://app-privacy-policy-generator.firebaseapp.com)
+
 Note: None of all those links does NOT ref.link.
 
 [g_Android]: https://raw.githubusercontent.com/Efulim/Useful-Resources/master/g/android.png "Android Icon Small"
