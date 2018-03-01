@@ -50,6 +50,7 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Custom iOS Components](https://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6/) | Tutorial for making custom components with Swift. |
 | [Adaptive(Auto) Layout - Part 1](https://www.raywenderlich.com/113768/adaptive-layout-tutorial-in-ios-9-getting-started) | Really cool tutorial - Part 1 |
 | [Adaptive(Auto) Layout - Part 2](https://www.raywenderlich.com/115440/auto-layout-tutorial-in-ios-9-part-1-getting-started-2) | Really cool tutorial - Part 2 |
+| [The App Lady](http://theapplady.net/category/swift-app-development/) | Tutorial from lady which is learning iPhone development |
 
 ### Tips
 #### Generic
