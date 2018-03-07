@@ -22,6 +22,7 @@ Browsers are default and given platforms for mobile.
 * [wordpress-mobile](https://github.com/wordpress-mobile/swift-style-guide)
 * [coursera](https://github.com/coursera/swift-style-guide)
 * [metova](https://github.com/metova/swift-style-guide)
+* [zooplus](https://github.com/zooplus/SwiftStyleGuide)
 
 #### Objective-C Style Guides
 * [google](http://google.github.io/styleguide/objcguide.html)
