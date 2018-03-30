@@ -64,6 +64,7 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | Title | Description |
 |--|--|
 | [That Things in Swift](https://thatthinginswift.com/) | Cool tips are here. |
+| [Swift Compile Time Cheat Sheet](http://www.roryba.in/programming/swift/2018/03/21/swift-compile-time-cheat-sheet.html) | Cool tips for caring Compile time |
 
 ### Helper Tools for Learning Development
 | Title | Description |
