@@ -122,6 +122,12 @@ App [Privacy Policy generator tool](https://app-privacy-policy-generator.firebas
 
 Note: None of all those links does NOT ref.link.
 
+## For Marketing
+
+| Medium Articles |
+|--|
+| [UX Best Practices: How to Design Scannable App Screenshots](https://medium.freecodecamp.org/ux-best-practices-how-to-design-scannable-app-screenshots-89e370bf433e) |
+
 [g_Android]: https://raw.githubusercontent.com/Efulim/Useful-Resources/master/g/android.png "Android Icon Small"
 [g_iOS]: https://raw.githubusercontent.com/Efulim/Useful-Resources/master/g/ios.png "iOS Icon Small"
 [g_Windows]: https://raw.githubusercontent.com/Efulim/Useful-Resources/master/g/windows.png "Windows Phone Icon Small"
