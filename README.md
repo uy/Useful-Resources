@@ -96,6 +96,7 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Canva // Color Palette](https://www.canva.com/color-palette/) | Creates color palettes from given images. ||
 | [Material Palette](https://www.materialpalette.com/) | You can choose colors for palette and site shows you sample material design. ||
 | [Material Colors](http://www.cosmicmind.com/material/colors) | Cool material colors from static page. | ![alt text][g_iOS] |
+| [Color-Hex](https://www.color-hex.com) | Gives related colors ||
 
 
 ### Design Guidance
