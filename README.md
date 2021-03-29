@@ -112,6 +112,8 @@ No need to make a list in here. You can check this [Link](https://en.wikipedia.o
 | [Freepik](http://www.freepik.com/) | You can get free Vectors, PSDs, Icons and Photos. |
 | [Sketchapp Sources](https://www.sketchappsources.com/) | Free and priced resources, for Sketchapp. |
 | [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de/) | With given icons or with personal icons, this site helps you to make your icon awesome. |
+| [uplabs](https://www.uplabs.com/) | Design files, UI kits |
+| [ui8](https://ui8.net/) | Design files, UI kits |
 
 ### Design Game (Assets)
 | Title | Description |
